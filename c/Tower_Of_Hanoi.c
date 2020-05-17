@@ -34,6 +34,7 @@ https://www.github.com/ravikumark815
 
 #include <stdio.h>
 #include <stdlib.h>
+#include<time.h>
 
 void towerOfHanoi(int n, char from_rod, char aux_rod, char to_rod) 
 { 
@@ -50,9 +51,20 @@ void towerOfHanoi(int n, char from_rod, char aux_rod, char to_rod)
 int main()
 {
     int n;
+    clock_t tstart, tend;
+    double tdiff;
+
     printf("\n~~~~~~~ Tower of Hanoi ~~~~~~~\n");
+    
     printf("\nEnter the number of discs: ");
     scanf("%d",&n);
+    
+    tstart = clock();
     towerOfHanoi(n, 'A', 'B', 'C');
+    tend = clock();
+    
+    tdiff = (double)(tend-tstart) / CLOCKS_PER_SEC;
+    printf("\n~~~~~~~ Time Taken: %f ~~~~~~~\n\n", tdiff);
+    
     return 0;
 }
