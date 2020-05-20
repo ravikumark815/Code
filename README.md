@@ -18,3 +18,4 @@ All Problems are tabulated below:
 | 1 | Tower Of Hanoi | &#9745; | &#9745; | &#9745; | O(2^n) | O(n) |
 | 2 | Repeated DNA Sequences | &#9744; | &#9744; | &#9745; |   |   |
 | 3 | Reverse an Integer | &#9744; | &#9744; | &#9745; |   |   |
+| 4 | Two Sum | &#9744; | &#9744; | &#9745; |   |   |
