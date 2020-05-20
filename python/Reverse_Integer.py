@@ -43,7 +43,7 @@ def reverse(x):
             return 0
 
 if __name__ == "__main__":
-    print("\n~~~~~~~ Tower of Hanoi ~~~~~~~\n")
+    print("\n~~~~~~~ Reverse an Integer ~~~~~~~\n")
     
     x = int(input("Enter the number: "))
     
