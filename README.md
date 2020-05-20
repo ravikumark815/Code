@@ -1,5 +1,5 @@
 # Code
-This repository hold solutions to famous problems in C, C++, Python3
+This repository holds solutions to famous problems in C, C++, Python3
 
 Every solution will have the following:
 
@@ -19,3 +19,4 @@ All Problems are tabulated below:
 | 2 | Repeated DNA Sequences | &#9744; | &#9744; | &#9745; |   |   |
 | 3 | Reverse an Integer | &#9744; | &#9744; | &#9745; |   |   |
 | 4 | Two Sum | &#9744; | &#9744; | &#9745; |   |   |
+| 5 | Product Array | &#9744; | &#9744; | &#9745; |   |   |
