@@ -20,3 +20,4 @@ All Problems are tabulated below:
 | 3 | Reverse an Integer | &#9744; | &#9744; | &#9745; |   |   |
 | 4 | Two Sum | &#9744; | &#9744; | &#9745; |   |   |
 | 5 | Product Array | &#9744; | &#9744; | &#9745; |   |   |
+| 6 | Serialize and Deserialize Binary Tree | &#9744; | &#9744; | &#9745; |   |   |
