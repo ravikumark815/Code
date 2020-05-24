@@ -21,3 +21,4 @@ All Problems are tabulated below:
 | 4 | Two Sum | &#9744; | &#9744; | &#9745; |   |   |
 | 5 | Product Array | &#9744; | &#9744; | &#9745; |   |   |
 | 6 | Serialize and Deserialize Binary Tree | &#9744; | &#9744; | &#9745; |   |   |
+| 7 | Smallest Postive Integer | &#9744; | &#9744; | &#9745; |   |   |
