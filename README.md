@@ -23,3 +23,4 @@ All Problems are tabulated below:
 | 6 | Serialize and Deserialize Binary Tree | &#9744; | &#9744; | &#9745; |   |   |
 | 7 | Smallest Postive Integer | &#9744; | &#9744; | &#9745; |   |   |
 | 8 | Middle of the Linked List | &#9744; | &#9744; | &#9745; |   |   |
+| 9 | Maximum Subarray | &#9744; | &#9744; | &#9745; |   |   |
