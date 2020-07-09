@@ -25,3 +25,4 @@ All Problems are tabulated below:
 | 8 | Middle of the Linked List | &#9744; | &#9744; | &#9745; |   |   |
 | 9 | Maximum Subarray | &#9744; | &#9744; | &#9745; |   |   |
 | 10 | Next Greater Element | &#9744; | &#9744; | &#9745; |   |   |
+| 11 | Move Zeroes | &#9744; | &#9744; | &#9745; |   |   |
