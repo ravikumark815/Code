@@ -26,3 +26,4 @@ All Problems are tabulated below:
 | 9 | Maximum Subarray | &#9744; | &#9744; | &#9745; |   |   |
 | 10 | Next Greater Element | &#9744; | &#9744; | &#9745; |   |   |
 | 11 | Move Zeroes | &#9744; | &#9744; | &#9745; |   |   |
+| 12 | String Reverse | &#9745; | &#9744; | &#9744; |   |   |
